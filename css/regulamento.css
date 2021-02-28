@@ -1,0 +1,15 @@
+.containerRegula{
+    display: grid;
+    grid-template-columns: 50vh 70vh;
+    margin: 20vh auto;
+    column-gap: 10vh;
+    align-items: center;
+    justify-content: center;
+}
+.texto{
+    text-align: center;
+    font-size: 2vh;
+}
+.containerRegula img{
+ height: 400px;
+}
